@@ -4,5 +4,5 @@ To compile original software you have to install [SdFat v1.1.4](https://github.c
 
 ![img1](./images/img1.jpg)
 ![img2](./images/img2.jpg)
-![img4](./images/img3.jpg)
-![img3](./images/img4.jpg)
+![img4](./images/img4.jpg)
+![img3](./images/img3.jpg)
