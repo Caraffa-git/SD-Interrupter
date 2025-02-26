@@ -4,4 +4,4 @@ To compile original software you have to install [SdFat v1.1.4](https://github.c
 
 ![](./images/schem.svg)
 ![](./images/pcb1.png)
-![](./images/pcb2.png)
+<!-- ![](./images/pcb2.png) -->
